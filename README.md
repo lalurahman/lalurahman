@@ -1,6 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+![Lalu Abdurrahman](github-header-banner.png)
 
 <h2 align="left">About me</h2>
 
