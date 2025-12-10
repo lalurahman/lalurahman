@@ -1,5 +1,6 @@
 ###
-![Lalu Abdurrahman](github-header-banner.png)
+
+![Lalu Abdurrahman](img/github-header-banner.png)
 
 ###
 
