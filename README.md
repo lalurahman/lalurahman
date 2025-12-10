@@ -79,8 +79,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lalurahman/lalurahman/output/snake.svg" alt="Snake animation" />
-
-###
-
 ###
