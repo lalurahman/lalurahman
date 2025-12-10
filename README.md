@@ -68,8 +68,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
+<br>
 ###
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lalurahman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lalurahman/lalurahman/output/pacman-contribution-graph-dark.svg">
