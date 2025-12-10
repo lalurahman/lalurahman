@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h3 align="center">I code with</h3>
 
 ###
 
@@ -80,5 +80,11 @@
 ###
 
 <img src="https://raw.githubusercontent.com/lalurahman/lalurahman/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lalurahman.lalurahman&"  />
+</div>
 
 ###
